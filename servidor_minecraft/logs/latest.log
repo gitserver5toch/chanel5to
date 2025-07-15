@@ -33,3 +33,16 @@
 [13:07:22] [Server thread/INFO]: LewisGTXY lost connection: Flying is not enabled on this server
 [13:07:22] [Server thread/INFO]: LewisGTXY left the game
 [13:07:22] [Server thread/WARN]: handleDisconnection() called twice
+[13:07:31] [Server thread/INFO]: LewisGTXY[/127.177.162.101:51469] logged in with entity id 331 at (68.3943272864616, 73.6197071712763, 131.90506169679986)
+[13:07:31] [Server thread/INFO]: LewisGTXY joined the game
+[13:07:42] [Server thread/WARN]: LewisGTXY was kicked for floating too long!
+[13:07:42] [Server thread/INFO]: LewisGTXY lost connection: Flying is not enabled on this server
+[13:07:42] [Server thread/INFO]: LewisGTXY left the game
+[13:07:42] [Server thread/WARN]: handleDisconnection() called twice
+[13:10:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:10:59] [Server thread/INFO]: /desban LewisGTXY<--[HERE]
+[13:11:12] [Server thread/INFO]: JoseGTXY[/127.192.43.82:51019] logged in with entity id 429 at (71.5, 63.0, 84.5)
+[13:11:12] [Server thread/INFO]: JoseGTXY joined the game
+[13:11:24] [Server thread/WARN]: JoseGTXY was kicked for floating too long!
+[13:11:24] [Server thread/INFO]: JoseGTXY lost connection: Flying is not enabled on this server
+[13:11:24] [Server thread/INFO]: JoseGTXY left the game
