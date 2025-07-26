@@ -1,48 +1,44 @@
-[12:57:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:57:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:57:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:38] [main/INFO]: Reloading ResourceManager: Default
-[12:57:39] [Worker-Main-2/INFO]: Loaded 7 recipes
-[12:57:40] [Worker-Main-2/INFO]: Loaded 927 advancements
-[12:57:42] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[12:57:42] [Server thread/INFO]: Loading properties
-[12:57:42] [Server thread/INFO]: Default game type: SURVIVAL
-[12:57:42] [Server thread/INFO]: Generating keypair
-[12:57:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:57:43] [Server thread/INFO]: Using epoll channel type
-[12:57:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:57:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:57:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:57:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:57:43] [Server thread/INFO]: Preparing level "world"
-[12:57:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:57:46] [Server thread/INFO]: Preparing spawn area: 43%
-[12:57:47] [Server thread/INFO]: Time elapsed: 3481 ms
-[12:57:47] [Server thread/INFO]: Done (3.716s)! For help, type "help"
-[13:07:06] [Server thread/INFO]: LewisGTXY[/127.177.162.101:33419] logged in with entity id 235 at (64.5, 63.0, 88.5)
-[13:07:06] [Server thread/INFO]: LewisGTXY joined the game
-[13:07:22] [Server thread/WARN]: LewisGTXY was kicked for floating too long!
-[13:07:22] [Server thread/INFO]: LewisGTXY lost connection: Flying is not enabled on this server
-[13:07:22] [Server thread/INFO]: LewisGTXY left the game
-[13:07:22] [Server thread/WARN]: handleDisconnection() called twice
-[13:07:31] [Server thread/INFO]: LewisGTXY[/127.177.162.101:51469] logged in with entity id 331 at (68.3943272864616, 73.6197071712763, 131.90506169679986)
-[13:07:31] [Server thread/INFO]: LewisGTXY joined the game
-[13:07:42] [Server thread/WARN]: LewisGTXY was kicked for floating too long!
-[13:07:42] [Server thread/INFO]: LewisGTXY lost connection: Flying is not enabled on this server
-[13:07:42] [Server thread/INFO]: LewisGTXY left the game
-[13:07:42] [Server thread/WARN]: handleDisconnection() called twice
-[13:10:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:10:59] [Server thread/INFO]: /desban LewisGTXY<--[HERE]
-[13:11:12] [Server thread/INFO]: JoseGTXY[/127.192.43.82:51019] logged in with entity id 429 at (71.5, 63.0, 84.5)
-[13:11:12] [Server thread/INFO]: JoseGTXY joined the game
-[13:11:24] [Server thread/WARN]: JoseGTXY was kicked for floating too long!
-[13:11:24] [Server thread/INFO]: JoseGTXY lost connection: Flying is not enabled on this server
-[13:11:24] [Server thread/INFO]: JoseGTXY left the game
+[01:20:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:20:45] [ServerMain/INFO]: No existing world data, creating new world
+[01:20:46] [ServerMain/INFO]: Loaded 1373 recipes
+[01:20:46] [ServerMain/INFO]: Loaded 1484 advancements
+[01:20:47] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:20:47] [Server thread/INFO]: Loading properties
+[01:20:47] [Server thread/INFO]: Default game type: SURVIVAL
+[01:20:47] [Server thread/INFO]: Generating keypair
+[01:20:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:20:47] [Server thread/INFO]: Using epoll channel type
+[01:20:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:20:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:20:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:20:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:20:47] [Server thread/INFO]: Preparing level "world"
+[01:21:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:21:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:21:11] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[01:21:11] [Server thread/INFO]: Time elapsed: 9515 ms
+[01:21:11] [Server thread/INFO]: Done (24.172s)! For help, type "help"
+[01:21:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:21:11] [Server thread/INFO]: <--[HERE]
+[01:22:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:24:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:24:49] [Server thread/INFO]: <--[HERE]
+[01:24:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:24:50] [Server thread/INFO]: <--[HERE]
